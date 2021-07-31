@@ -1,0 +1,15 @@
+.SimTable {
+    margin: auto;
+    margin-top: 5%;
+    border-style: solid;
+    background:#000;
+    border-spacing: 1px;
+}
+
+.white {
+    background-color: white;
+}
+
+.blue {
+    background-color: blue;
+}

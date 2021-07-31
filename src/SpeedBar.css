@@ -1,0 +1,21 @@
+.SpeedBar {
+    text-align: center;
+    
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: antiquewhite;
+    margin: 0;
+    border-color: black;
+    align-items: center;
+}
+
+.SpeedBarSlider {
+    display: inline-block;
+    align-items: center;
+}
+
+.SpeedBarText {
+    display: inline-block;
+    align-items: center;
+}
